@@ -1,0 +1,222 @@
+in hyperparameters()
+(1337, 60)
+(1337,)
+in get_test_data_without_removing_outliers()
+(1470, 60)
+(1470,)
+in hyperparameters()
+(3, 1532)
+(3,)
+in get_test_data_without_removing_outliers()
+(1470, 1532)
+(1470,)
+in hyperparameters()
+(1470, 1532)
+(1470,)
+in get_test_data_without_removing_outliers()
+(1470, 1532)
+(1470,)
+in hyperparameters()
+(7, 61)
+(7,)
+in get_test_data_without_removing_outliers()
+(1470, 61)
+(1470,)
+in hyperparameters()
+(110, 61)
+(110,)
+in get_test_data_without_removing_outliers()
+(1470, 61)
+(1470,)
+in hyperparameters()
+(259, 61)
+(259,)
+in get_test_data_without_removing_outliers()
+(1470, 61)
+(1470,)
+in hyperparameters()
+(259, 61)
+(259,)
+in get_test_data_without_removing_outliers()
+(1470, 61)
+(1470,)
+in hyperparameters() BUT scaled
+(368, 61)
+(368,)
+in hyperparameters(): X and y
+(259, 61)
+(259,)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 61)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 61)
+(368, 61)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 61)
+(368,)
+in hyperparameters(): X and y
+(259, 61)
+(259,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(194, 61)
+(65, 61)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 61)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 61)
+(368, 61)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 61)
+(368,)
+in hyperparameters(): X and y
+(75, 61)
+(75,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(56, 61)
+(19, 61)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 61)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 61)
+(368, 61)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 61)
+(368,)
+in hyperparameters(): X and y
+(116, 57)
+(116,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(87, 57)
+(29, 57)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 52)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 52)
+(368, 52)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 52)
+(368,)
+in hyperparameters(): X and y
+(1470, 57)
+(1470,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(1102, 57)
+(368, 57)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 52)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 52)
+(368, 52)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 52)
+(368,)
+in hyperparameters(): X and y
+(1470, 56)
+(1470,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(1102, 56)
+(368, 56)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 51)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 51)
+(368, 51)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 51)
+(368,)
+in hyperparameters(): X and y
+(1054, 55)
+(1054,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(790, 55)
+(264, 55)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 55)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 55)
+(368, 55)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 55)
+(368,)
+in hyperparameters(): X and y
+(1470, 55)
+(1470,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(1102, 55)
+(368, 55)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 55)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 55)
+(368, 55)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 55)
+(368,)
+in hyperparameters(): X and y
+(1054, 55)
+(1054,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(790, 55)
+(264, 55)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 55)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 55)
+(368, 55)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 55)
+(368,)
+in hyperparameters(): X and y
+(1470, 55)
+(1470,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(1102, 55)
+(368, 55)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 55)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 55)
+(368, 55)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 55)
+(368,)
+in hyperparameters(): X and y
+(1470, 61)
+(1470,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(1102, 61)
+(368, 61)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 61)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 61)
+(368, 61)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 61)
+(368,)
+in hyperparameters(): X and y
+(1054, 55)
+(1054,)
+in hyperparameters(): X_train_scaled and X_test_scaled
+(790, 55)
+(264, 55)
+in get_test_data_without_removing_outliers(): X and y
+(1470, 55)
+(1470,)
+in get_test_data_without_removing_outliers(): X_train and X_test
+(1102, 55)
+(368, 55)
+in hyperparameters(): X_test_scaled_WITH_outliers and y_test_WITH_outliers
+(368, 55)
+(368,)
